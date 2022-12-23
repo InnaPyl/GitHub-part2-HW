@@ -1,0 +1,10 @@
+ID:номер
+summary:краткое описание
+description:полное описание
+environment:окружение
+steps_to_reproduce:шаги воспроизведения
+actual_result:фактический результат
+expected_result:ожидаемый результат
+severity:серьезность
+priority:приоритет
+additional_information:дополнения
